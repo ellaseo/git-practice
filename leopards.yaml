@@ -1,0 +1,15 @@
+team: Leopards
+
+manager: Luke
+
+<<<<<<< HEAD
+coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> 68f6d2f (Edit Leopards)
+
+members:
+- Linda
+- William
+- David
+- Olivia 
