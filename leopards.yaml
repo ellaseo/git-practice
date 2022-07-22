@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Dooli
 
+<<<<<<< HEAD
 coach: Lupie
+=======
+coach: Nicholas
+>>>>>>> origin/main
 
 members:
 - Linda
