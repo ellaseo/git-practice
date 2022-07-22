@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Luke
 
+<<<<<<< HEAD
 coach: Lupie
+=======
+coach: Nicholas
+>>>>>>> origin/main
 
 members:
 - Linda
